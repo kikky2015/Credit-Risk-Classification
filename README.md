@@ -10,11 +10,11 @@ This project uses various techniques to train and evaluate a model based on loan
 
 ## Results
 
-* Machine Learning Model 1:
-  * The logistic regression model of the '0' (healthy loans) label has precision of 1 and recall of 0.99. This ****indicates the model made accurate predictions every time. 
+* Regression model of the '0' (healthy loans):
+  * The logistic regression model of the '0' (healthy loans) label has precision of 1 and recall of 0.99. This indicates the model made accurate predictions every time. 
 
-* Machine Learning Model 2:
-  * The logistic regression model for the '1' (high-risk loans) has a precision of 0.85 and recall of 0.91. The    ****model did not do a fantastic job at predicting the values for high-risk loans.
+* Regression model for the '1' (high-risk loans):
+  * The logistic regression model for the '1' (high-risk loans) has a precision of 0.85 and recall of 0.91. The *model did not do a fantastic job at predicting the values for high-risk loans.
 
 ## Summary
 
